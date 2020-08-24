@@ -1,2 +1,3 @@
 Training git
 Em Tien da add them noi dung nay
+Training Rails
